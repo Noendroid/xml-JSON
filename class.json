@@ -1,7 +1,31 @@
 {
     "class":{
+        "name":"4106",
         "student":[
-            {"name":"a","grade":}
+            {
+                "name":"a",
+                "grade_math":90,
+                "grade_english":90,
+                "grade_phisyks":90,
+                "grade_WEB":90,
+                "grade_Graphics":90
+            },
+            {
+                "name":"b",
+                "grade_math":90,
+                "grade_english":90,
+                "grade_phisyks":90,
+                "grade_WEB":90,
+                "grade_Graphics":90
+            },
+            {
+                "name":"c",
+                "grade_math":90,
+                "grade_english":90,
+                "grade_phisyks":90,
+                "grade_WEB":90,
+                "grade_Graphics":90
+            }
         ]
     }
 }
